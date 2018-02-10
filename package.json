@@ -1,0 +1,22 @@
+{
+  "name": "mongojs",
+  "version": "1.0.0",
+  "description": "MongoJs is different from MongoDB (official driver) MongoJS mimics MongoDB as close as it can but in its native capacity",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickydo/mongojs.git"
+  },
+  "keywords": [],
+  "author": "Ricky Do",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickydo/mongojs/issues"
+  },
+  "homepage": "https://github.com/rickydo/mongojs#readme"
+}
